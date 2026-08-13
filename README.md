@@ -1,42 +1,41 @@
-<h1 align="center"><Todixx</h1>
+<h1 align="center">Hi, I'm Todixx 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=todixx-x&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=todixx&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-### About Me
+### 🚀 About Me
 
-Hi, I'm **Android Artisan**, a passionate Android ROM developer focused on:
-- Custom ROMs (One UI, Lineage etc.)
-- Legacy & Modern Samsung Devices
-- Snell's law-style design.
+I'm **Todixx** (Todixx Jirava), a developer passionate about building clean, optimized, and performant software across various platforms.
 
-I try to build clean, optimized, and functional software for the Android community, with a heavy focus on Exynos-powered devices, maybe soon Snapdragon?.
+- 🛠️ **Android Development**: Crafting custom ROMs, GSIs, and system modifications.
+- 💻 **Software & Server Tech**: Developing backend tools, Discord bots, and server software.
+- ⚡ **Focus**: Building lightweight, reliable, and functional solutions for the community.
 
 ---
 
-### GitHub Stats
-
+### 📊 GitHub Stats
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Android-Artisan/Android-Artisan/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/todixx/todixx/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Android-Artisan/Android-Artisan/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/todixx/todixx/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Android-Artisan/Android-Artisan/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/todixx/todixx/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
-### Connect With Me
+---
 
-- XDA: [@Android-Artisan](https://xdaforums.com/m/android-artisan.13071848/)
-- Discord: [@android_artisan](https://discord.com/users/1407033850336378880)
-- GitHub: [@Android-Artisan](https://github.com/Android-Artisan)
+### 📬 Connect With Me
+
+- **GitHub**: [@todixx](https://github.com/todixx)
+- **Discord**: `@todixx`
