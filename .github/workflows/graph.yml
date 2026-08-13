@@ -36,7 +36,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          committer: "Android-Artisan <romartisan2025@gmail.com>"
-          author: "Artisan Snake BOT <snake@ArtisanROM.com>"
+          committer: "Todixx <not.todixxx@gmail.com>"
+          author: "Todixx <not.todixxx@gmail.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
