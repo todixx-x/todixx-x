@@ -5,16 +5,18 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
-  # Allows manual run
+  # Allows manual run from Actions tab
   workflow_dispatch:
 
-  # Run on push to main
+  # Run on push to main branch
   push:
     branches:
       - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -28,9 +30,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push SVGs to the output branch with custom bot identity
+      # Push SVGs to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -39,4 +41,4 @@ jobs:
           committer: "Todixx <not.todixxx@gmail.com>"
           author: "Todixx <not.todixxx@gmail.com>"
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
