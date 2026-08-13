@@ -37,5 +37,5 @@ I'm **Todixx** (Todixx Jirava), a developer passionate about building clean, opt
 
 ### 📬 Connect With Me
 
-- **GitHub**: [@todixx](https://github.com/todixx)
-- **Discord**: `@todixx`
+- **GitHub**: [@todixx](https://github.com/todixx-x)
+- **Discord**: `@todixx__`
