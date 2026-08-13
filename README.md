@@ -10,7 +10,7 @@
 
 I'm **Todixx** (Todixx Jirava), a developer passionate about building clean, optimized, and performant software across various platforms.
 
-- 🛠️ **Android Development**: Crafting custom ROMs, GSIs, and system modifications.
+- 🛠️ **Android Development**: Crafting custom ROMs, GSIs, and OS system modifications.
 - 💻 **Software & Server Tech**: Developing backend tools, Discord bots, and server software.
 - ⚡ **Focus**: Building lightweight, reliable, and functional solutions for the community.
 
