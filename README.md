@@ -1,7 +1,7 @@
-<h1 align="center">Android-Artisan</h1>
+<h1 align="center"><Todixx</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Android-Artisan&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=todixx-x&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
